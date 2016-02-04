@@ -8,4 +8,4 @@ Serving HTTP on 0.0.0.0 port 80 ...
 ```
 Inspired by: https://github.com/cheynewallace/angular-s3-upload
 
-
+todo: add link to S3 API
